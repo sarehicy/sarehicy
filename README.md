@@ -2,8 +2,8 @@
 <dl>
   <dd>
 <image src="https://cdn3.emoji.gg/emojis/8566-pompom.png" width="27px"> I have a certificate in IT <br> 
-<image src="https://cdn3.emoji.gg/emojis/8566-pompom.png" width="27px"> I'm  currrently graduating in Information Systems at University of São Paulo <br>
-<image src="https://cdn3.emoji.gg/emojis/8566-pompom.png" width="27px"> I'm interested in competitive programming and cryptography <br>
+<image src="https://cdn3.emoji.gg/emojis/8566-pompom.png" width="27px"> I'm  currrently graduating in **Information Systems at University of São Paulo** <br>
+<image src="https://cdn3.emoji.gg/emojis/8566-pompom.png" width="27px"> I'm interested in **competitive programming and cryptography** <br>
 <image src="https://cdn3.emoji.gg/emojis/8566-pompom.png" width="27px"> On my free time I enjoy reading, drawing and watching movies! <br>
   </dd>
 </dl>
