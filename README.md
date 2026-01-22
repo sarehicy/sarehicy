@@ -1,11 +1,13 @@
 ##  Hi, I'm Meicy! <image src="https://cdn3.emoji.gg/emojis/7650-pompompurinwink.gif" width="55px">
-
-<image src="https://cdn3.emoji.gg/emojis/8566-pompom.png" width="30px"> I have a certificate in IT<br> 
+<dl>
+  <dd>
+<image src="https://cdn3.emoji.gg/emojis/8566-pompom.png" width="30px"> I have a certificate in IT <br> 
 <image src="https://cdn3.emoji.gg/emojis/8566-pompom.png" width="30px"> I'm  currrently graduating in Information Systems at University of São Paulo <br>
-<image src="https://cdn3.emoji.gg/emojis/8566-pompom.png" width="30px"> I'm interested in competitive programming and cryptography
+<image src="https://cdn3.emoji.gg/emojis/8566-pompom.png" width="30px"> I'm interested in competitive programming and cryptography <br>
+  </dd>
+</dl>
 
-
-
+<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarehicy&show_icons=true&theme=bear)](https://github.com/sarehicy/github-readme-stats)
 
