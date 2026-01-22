@@ -1,4 +1,7 @@
-## Hi there 👋
+## <image src="https://cdn3.emoji.gg/emojis/3040_Butterfly_Pink_2.gif" width="50px"> Hi, I'm Meicy!
+
+I have a certificate in IT and I'm  currrently graduating in Information Systems at University of São Paulo
+
 
 
 
