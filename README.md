@@ -1,12 +1,13 @@
-## <image src="https://cdn3.emoji.gg/emojis/3040_Butterfly_Pink_2.gif" width="50px"> Hi, I'm Meicy!
+##  Hi, I'm Meicy! <image src="https://cdn3.emoji.gg/emojis/7650-pompompurinwink.gif" width="55px">
 
-I have a certificate in IT and I'm  currrently graduating in Information Systems at University of São Paulo <br>
-I'm interested in competitive programming and cryptography
+<image src="https://cdn3.emoji.gg/emojis/8566-pompom.png" width="30px"> I have a certificate in IT<br> 
+<image src="https://cdn3.emoji.gg/emojis/8566-pompom.png" width="30px"> I'm  currrently graduating in Information Systems at University of São Paulo <br>
+<image src="https://cdn3.emoji.gg/emojis/8566-pompom.png" width="30px"> I'm interested in competitive programming and cryptography
 
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarehicy&show_icons=true&theme=radical)](https://github.com/sarehicy/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarehicy&show_icons=true&theme=bear)](https://github.com/sarehicy/github-readme-stats)
 
 <!--
 **sarehicy/sarehicy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
