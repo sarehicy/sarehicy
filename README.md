@@ -1,6 +1,6 @@
-##  Hi, I'm Meicy! <image src="https://cdn3.emoji.gg/emojis/7650-pompompurinwink.gif" width="55px">
-
-<image src="https://cdn3.emoji.gg/emojis/8566-pompom.png" width="27px"> I'm  currrently graduating in **Information Systems at University of São Paulo**<br>
+# <div align = "center" >  <image src="https://cdn3.emoji.gg/emojis/838340-pompompurin-bow.gif" width="45px"> Hello, Welcome!  <image src="https://cdn3.emoji.gg/emojis/838340-pompompurin-bow.gif" width="45px"> </div>
+---
+My name is Sarah Meicy, I'm an **Information Systems student @ University of São Paulo!** <br>
 <image src="https://cdn3.emoji.gg/emojis/8566-pompom.png" width="27px"> I'm interested in **competitive programming and cryptography**<br>
 <image src="https://cdn3.emoji.gg/emojis/8566-pompom.png" width="27px"> On my free time I enjoy reading, drawing and watching movies! <br>
 
