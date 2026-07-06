@@ -1,4 +1,4 @@
-# <div align = "left" > <image src="https://cdn3.emoji.gg/emojis/903205-pompompurin-cookie.gif" width="45px"> Hello, welcome!  </div>
+# <div align = "left" > <image src="https://cdn3.emoji.gg/emojis/903205-pompompurin-cookie.gif" width="45px"> Hello, welcome! ⊹ </div>
 
 
 ### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ&ensp; &ensp; I'm Sarah Meicy
@@ -28,6 +28,8 @@
 
 </p>
 
+<br>
+
 <div align="center">
   
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=sarehicy&layout=compact&langs_count=4&hide_values=true&theme=calm_pink)](https://github-stats-extended.vercel.app/api/top-langs?username=sarehicy&layout=compact&langs_count=4&hide_values=true&theme=calm_pink)
@@ -35,7 +37,7 @@
 </div>
 
 
-## <img src="https://cdn3.emoji.gg/emojis/565963-heart.png" width="20px" alt="heart">  How to reach me <image src="https://cdn3.emoji.gg/emojis/4440-pompompurinspin.gif" width="50px">
+## <img src="https://cdn3.emoji.gg/emojis/565963-heart.png" width="20px" alt="heart">  How to reach me 
 💌 sarehicybarbosam@gmail.com <br>
 
 <image src="https://cdn3.emoji.gg/emojis/60246-dancemoji.png" width="70px">
