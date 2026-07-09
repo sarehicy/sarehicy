@@ -10,7 +10,7 @@
 
 <div align="center">
   
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sarehicy&show_icons=true&include_all_commits=true&theme=calm_pink)](https://github-stats-extended.vercel.app/api?username=sarehicy&show_icons=true&include_all_commits=true&theme=calm_pink)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sarehicy&show_icons=true&theme=calm_pink)](https://github-stats-extended.vercel.app/api?username=sarehicy&show_icons=true&theme=calm_pink)
 
 
 </div>
